@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+joblib
+pyyaml
+tqdm
+
+# Malware layer
+yara-python
+pefile
+
+# Simulation / networking
+scapy
+pyshark
+
+# Misc
+matplotlib
